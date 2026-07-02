@@ -14,7 +14,7 @@
           "link": ""
         },
         "Details": {
-          "value": "Monday, July 6 through Thursday, July 10, 2026",
+          "value": "Monday, July 6 through Thursday, July 9, 2026",
           "link": ""
         },
         "Column 3": {
@@ -37,6 +37,50 @@
         },
         "Details": {
           "value": "Reception 3:00–5:00 PM. Call (607) 210-2655 in advance if arriving outside those hours or for contactless check-in (Mon–Fri, 9:00 AM–4:30 PM EST).",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Checkout",
+          "link": ""
+        },
+        "Details": {
+          "value": "Thursday, July 9, 2026 at 10:00 AM. Later checkout must be requested in advance and may not be approved; fees may apply.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Room",
+          "link": ""
+        },
+        "Details": {
+          "value": "LakeView Double-bedroom Deluxe Cottage (2019). Sleeps up to 6 with sleeper sofa. 2 adults, 2 children (ages 2, 5).",
           "link": ""
         },
         "Column 3": {
@@ -80,7 +124,29 @@
           "link": ""
         },
         "Details": {
-          "value": "Single Island Shores, Hector, NY",
+          "value": "LakeView Double-bedroom Deluxe Cottage · Single Island Shores, Hector, NY. Middle of property (~350 yds above Lakeside cottages, ~50 yds from picnic pavilion & playground).",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Cottage amenities",
+          "link": ""
+        },
+        "Details": {
+          "value": "Full kitchen (oven, dishwasher, fridge, microwave, toaster, Keurig) with cookware. Private grill with gas tank. Linens and paper products supplied.",
           "link": ""
         },
         "Column 3": {
@@ -103,6 +169,28 @@
         },
         "Details": {
           "value": "2-year-old and 5-year-old. Car naps assumed.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Thursday departure",
+          "link": ""
+        },
+        "Details": {
+          "value": "Thu Jul 9: checkout 10 AM, load up, then stops en route home (Corning Museum is ~35 min toward Saratoga).",
           "link": ""
         },
         "Column 3": {
@@ -457,11 +545,11 @@
       },
       {
         "Day": {
-          "value": "Thu PM (optional)",
+          "value": "Thu · checkout → en route",
           "link": ""
         },
         "Type": {
-          "value": "Indoor museum",
+          "value": "Indoor museum · departure day",
           "link": ""
         },
         "Name": {
@@ -497,7 +585,7 @@
           "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
         },
         "Notes": {
-          "value": "Optional PM stop if timing works; head home to Saratoga Springs after.",
+          "value": "Checkout 10 AM, then stop on the drive home to Saratoga Springs. Pair with Alphabet Soup or Burgers & Beer.",
           "link": ""
         }
       }
@@ -543,11 +631,11 @@
           "link": ""
         },
         "When": {
-          "value": "12 PM & 5 PM daily (Apr–Oct); July 6–10 clear",
+          "value": "12 PM & 5 PM daily (Apr–Oct); July 6–9 clear",
           "link": ""
         },
         "Notes": {
-          "value": "3 escorted laps in your car. Book ahead; July 6–10 clear.",
+          "value": "3 escorted laps in your car. Book ahead; July 6–9 clear.",
           "link": ""
         },
         "Pin": {
@@ -1989,7 +2077,7 @@
           "link": ""
         },
         "Notes": {
-          "value": "Easy after glass museum.",
+          "value": "Easy after glass museum on Thu departure day.",
           "link": ""
         },
         "Pin": {
@@ -3118,7 +3206,7 @@
           "link": ""
         },
         "Trip": {
-          "value": "Thursday / rainy day",
+          "value": "Thursday checkout · en route home",
           "link": ""
         },
         "Notes": {
@@ -3394,7 +3482,7 @@
           "link": ""
         },
         "Trip": {
-          "value": "Thursday optional",
+          "value": "Thursday checkout · en route",
           "link": ""
         },
         "Notes": {
@@ -3440,7 +3528,7 @@
           "link": ""
         },
         "Trip": {
-          "value": "Thursday / rainy day",
+          "value": "Thursday checkout · en route home",
           "link": ""
         },
         "Notes": {
@@ -3610,7 +3698,7 @@
           "link": ""
         },
         "Why": {
-          "value": "Best full rainy-day trip.",
+          "value": "Best full rainy-day trip — also the default Thu checkout stop en route home.",
           "link": ""
         },
         "Pin": {
