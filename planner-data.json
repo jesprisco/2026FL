@@ -2,7 +2,7 @@
   "Start Here": {
     "headers": [
       "Use this first",
-      "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.",
+      "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.",
       "Column 3",
       "Column 4",
       "Column 5"
@@ -13,7 +13,7 @@
           "value": "Home base",
           "link": ""
         },
-        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
           "value": "Single Island Shores, Hector, NY",
           "link": ""
         },
@@ -35,7 +35,7 @@
           "value": "Kids",
           "link": ""
         },
-        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
           "value": "2-year-old and 5-year-old. Car naps assumed.",
           "link": ""
         },
@@ -57,7 +57,7 @@
           "value": "Best simple flow",
           "link": ""
         },
-        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
           "value": "One main activity per day, lunch, car nap, one small afternoon stop.",
           "link": ""
         },
@@ -79,7 +79,7 @@
           "value": "Wine stop",
           "link": ""
         },
-        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
           "value": "Lakewood Vineyards is the safest family-friendly default.",
           "link": ""
         },
@@ -94,88 +94,6 @@
         "Column 5": {
           "value": "",
           "link": ""
-        }
-      }
-    ]
-  },
-  "Today": {
-    "headers": [
-      "Day",
-      "Best Plan",
-      "Backup if Rain",
-      "Tap"
-    ],
-    "rows": [
-      {
-        "Day": {
-          "value": "Mon",
-          "link": ""
-        },
-        "Best Plan": {
-          "value": "Check in + dinner at Seneca Harbor Station",
-          "link": ""
-        },
-        "Backup if Rain": {
-          "value": "Cabin night",
-          "link": ""
-        },
-        "Tap": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
-        }
-      },
-      {
-        "Day": {
-          "value": "Tue",
-          "link": ""
-        },
-        "Best Plan": {
-          "value": "Watkins Glen State Park + Lakewood Vineyards",
-          "link": ""
-        },
-        "Backup if Rain": {
-          "value": "Corning Museum of Glass",
-          "link": ""
-        },
-        "Tap": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
-        }
-      },
-      {
-        "Day": {
-          "value": "Wed",
-          "link": ""
-        },
-        "Best Plan": {
-          "value": "Sciencenter + Stewart Park + Purity Ice Cream",
-          "link": ""
-        },
-        "Backup if Rain": {
-          "value": "Stay indoors at Sciencenter / Museum of the Earth",
-          "link": ""
-        },
-        "Tap": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
-        }
-      },
-      {
-        "Day": {
-          "value": "Thu",
-          "link": ""
-        },
-        "Best Plan": {
-          "value": "Corning Museum of Glass + Market Street",
-          "link": ""
-        },
-        "Backup if Rain": {
-          "value": "Same plan works in rain",
-          "link": ""
-        },
-        "Tap": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
         }
       }
     ]
@@ -200,7 +118,7 @@
           "link": ""
         },
         "Plan": {
-          "value": "Check in \u2192 groceries \u2192 Seneca Harbor Station \u2192 ice cream if energy",
+          "value": "Check in → groceries → Seneca Harbor Station → ice cream if energy",
           "link": ""
         },
         "Nap / Kid Note": {
@@ -226,7 +144,7 @@
           "link": ""
         },
         "Plan": {
-          "value": "Watkins Glen State Park \u2192 lunch \u2192 Lakewood Vineyards \u2192 Clute Memorial Park",
+          "value": "Watkins Glen State Park → lunch → Lakewood Vineyards → Clute Memorial Park",
           "link": ""
         },
         "Nap / Kid Note": {
@@ -252,7 +170,7 @@
           "link": ""
         },
         "Plan": {
-          "value": "Sciencenter \u2192 lunch \u2192 Stewart Park \u2192 Purity Ice Cream",
+          "value": "Sciencenter → lunch → Stewart Park → Purity Ice Cream",
           "link": ""
         },
         "Nap / Kid Note": {
@@ -274,24 +192,24 @@
           "link": ""
         },
         "Theme": {
-          "value": "Corning day",
+          "value": "Departure day",
           "link": ""
         },
         "Plan": {
-          "value": "Corning Museum of Glass \u2192 lunch/Market Street \u2192 return to lake",
+          "value": "Check out → pack car → optional PM stop → drive home to Saratoga Springs, NY",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Best if weather turns rainy.",
+          "value": "Keep morning light. If you do a PM stop, leave plenty of time to get home.",
           "link": ""
         },
         "Pin": {
           "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Corning+Museum+of+Glass+Corning+Finger+Lakes+NY"
+          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
         },
         "Directions": {
           "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Saratoga+Springs%2C+NY"
         }
       }
     ]
@@ -589,7 +507,7 @@
       },
       {
         "Day": {
-          "value": "Thu AM",
+          "value": "Thu PM (optional)",
           "link": ""
         },
         "Type": {
@@ -629,53 +547,7 @@
           "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
         },
         "Notes": {
-          "value": "Excellent Thursday/rain option; demos keep kids engaged.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
-          "value": "Thu PM",
-          "link": ""
-        },
-        "Type": {
-          "value": "Walk + food",
-          "link": ""
-        },
-        "Name": {
-          "value": "Market Street",
-          "link": ""
-        },
-        "Town": {
-          "value": "Corning",
-          "link": ""
-        },
-        "Drive": {
-          "value": "35 min",
-          "link": ""
-        },
-        "Cost": {
-          "value": "Free",
-          "link": ""
-        },
-        "Kids": {
-          "value": "4/5",
-          "link": ""
-        },
-        "Weather": {
-          "value": "Light rain OK",
-          "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Market+Street+Corning+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Market+Street+Corning+NY"
-        },
-        "Notes": {
-          "value": "Simple stroll after museum; food nearby.",
+          "value": "Optional PM stop if timing works; head home to Saratoga Springs after.",
           "link": ""
         }
       }
@@ -1270,7 +1142,8 @@
       "Changing Table",
       "Reservations",
       "Typical Wait",
-      "Google Maps"
+      "Google Maps",
+      "Menu"
     ],
     "rows": [
       {
@@ -1343,12 +1216,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "15\u201330 min",
+          "value": "15–30 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station",
           "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://senecaharborstation.com/restaurant/"
         }
       },
       {
@@ -1421,12 +1298,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "10\u201320 min",
+          "value": "10–20 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Nickels+Pit+BBQ+Watkins+Glen",
           "link": "https://www.google.com/maps/search/?api=1&query=Nickels+Pit+BBQ+Watkins+Glen"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.nickelspitbbq.com/menu-watkinsglen"
         }
       },
       {
@@ -1499,12 +1380,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "10\u201320 min",
+          "value": "10–20 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Jerlandos+Pizza+Watkins+Glen",
           "link": "https://www.google.com/maps/search/?api=1&query=Jerlandos+Pizza+Watkins+Glen"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://jerlandospizza.com/dine-in-menu/"
         }
       },
       {
@@ -1577,12 +1462,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "5\u201310 min",
+          "value": "5–10 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen",
           "link": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.thegreatescapeicecream.com/ice-cream"
         }
       },
       {
@@ -1655,7 +1544,7 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "10\u201320 min",
+          "value": "10–20 min",
           "link": ""
         },
         "Google Maps": {
@@ -1733,12 +1622,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "10\u201320 min",
+          "value": "10–20 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Scale+House+Brewery+Hector+NY",
           "link": "https://www.google.com/maps/search/?api=1&query=Scale+House+Brewery+Hector+NY"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.scalehousebrews.com/s/order"
         }
       },
       {
@@ -1811,12 +1704,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "5\u201315 min",
+          "value": "5–15 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Purity+Ice+Cream+Ithaca",
           "link": "https://www.google.com/maps/search/?api=1&query=Purity+Ice+Cream+Ithaca"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.purityicecream.com/"
         }
       },
       {
@@ -1889,12 +1786,16 @@
           "link": ""
         },
         "Typical Wait": {
-          "value": "15\u201330 min",
+          "value": "15–30 min",
           "link": ""
         },
         "Google Maps": {
           "value": "https://www.google.com/maps/search/?api=1&query=Ithaca+Ale+House",
           "link": "https://www.google.com/maps/search/?api=1&query=Ithaca+Ale+House"
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "http://www.ithacaalehouse.com/menu"
         }
       },
       {
@@ -1973,6 +1874,10 @@
         "Google Maps": {
           "value": "",
           "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://corningburgers.beer/post.php?pid=12"
         }
       }
     ]
