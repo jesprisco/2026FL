@@ -2,7 +2,7 @@
   "Start Here": {
     "headers": [
       "Use this first",
-      "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.",
+      "Details",
       "Column 3",
       "Column 4",
       "Column 5"
@@ -13,7 +13,7 @@
           "value": "Trip dates",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "Monday, July 6 through Thursday, July 10, 2026",
           "link": ""
         },
@@ -35,7 +35,7 @@
           "value": "Check-in",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "Reception 3:00–5:00 PM. Call (607) 210-2655 in advance if arriving outside those hours or for contactless check-in (Mon–Fri, 9:00 AM–4:30 PM EST).",
           "link": ""
         },
@@ -57,7 +57,7 @@
           "value": "Pre-ordered",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "Firewood ($10/bundle) and s'mores kit at the cottage.",
           "link": ""
         },
@@ -79,7 +79,7 @@
           "value": "Home base",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "Single Island Shores, Hector, NY",
           "link": ""
         },
@@ -101,7 +101,7 @@
           "value": "Kids",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "2-year-old and 5-year-old. Car naps assumed.",
           "link": ""
         },
@@ -123,8 +123,8 @@
           "value": "Best simple flow",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
-          "value": "One main activity per day, lunch, car nap, one small afternoon stop.",
+        "Details": {
+          "value": "Build your plan in the Itinerary tab — one main activity, lunch, car nap, one afternoon stop.",
           "link": ""
         },
         "Column 3": {
@@ -145,7 +145,7 @@
           "value": "Wine stop",
           "link": ""
         },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+        "Details": {
           "value": "Lakewood Vineyards is the safest family-friendly default.",
           "link": ""
         },
@@ -159,88 +159,6 @@
         },
         "Column 5": {
           "value": "",
-          "link": ""
-        }
-      }
-    ]
-  },
-  "Daily Plan": {
-    "headers": [
-      "Day",
-      "Theme",
-      "Plan",
-      "Nap / Kid Note"
-    ],
-    "rows": [
-      {
-        "Day": {
-          "value": "Monday",
-          "link": ""
-        },
-        "Theme": {
-          "value": "Arrival Day",
-          "link": ""
-        },
-        "Plan": {
-          "value": "Check-in 3–5 PM → TOPS → Seneca Harbor → s'mores at cottage",
-          "link": ""
-        },
-        "Nap / Kid Note": {
-          "value": "Keep it light. Call office if arriving outside reception hours.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
-          "value": "Tuesday",
-          "link": ""
-        },
-        "Theme": {
-          "value": "Watkins Glen",
-          "link": ""
-        },
-        "Plan": {
-          "value": "State Park → cottage lunch (grill Zweigle's from TOPS) → racing → Lakewood → Clute Park",
-          "link": ""
-        },
-        "Nap / Kid Note": {
-          "value": "Car nap after lunch or winery. Drive The Glen: book 5 PM if grilling at noon.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
-          "value": "Wednesday",
-          "link": ""
-        },
-        "Theme": {
-          "value": "Ithaca day",
-          "link": ""
-        },
-        "Plan": {
-          "value": "Sciencenter → lunch → Stewart Park → Purity Ice Cream",
-          "link": ""
-        },
-        "Nap / Kid Note": {
-          "value": "Use Sciencenter if rain or heat.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
-          "value": "Thursday",
-          "link": ""
-        },
-        "Theme": {
-          "value": "Departure day",
-          "link": ""
-        },
-        "Plan": {
-          "value": "Check out → pack car → optional PM stop → drive home to Saratoga Springs, NY",
-          "link": ""
-        },
-        "Nap / Kid Note": {
-          "value": "Keep morning light. If you do a PM stop, leave plenty of time to get home.",
           "link": ""
         }
       }
@@ -2125,6 +2043,1467 @@
         "Menu": {
           "value": "View menu",
           "link": "https://corningburgers.beer/post.php?pid=12"
+        }
+      },
+      {
+        "Name": {
+          "value": "Toni's Diner",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / brunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "8 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Closest real breakfast diner. Homemade pancakes & gravy. Closed Mondays.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Toni%2527s%20Diner%20Hector%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Toni's%20Diner%20Hector%20NY"
+        },
+        "Cuisine": {
+          "value": "American diner",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Brisket omelet",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "HERE.",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "5 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Smoked meats, baked goods, local farm ingredients. Fri–Mon 9 AM–3 PM.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=HERE.%20Hector%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=HERE.%20Hector%20NY"
+        },
+        "Cuisine": {
+          "value": "Comfort food, smoked",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Breakfast sandwich",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Limited",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.hereinhector.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Curly's Family Restaurant",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Local staple since 1955. Open daily 8 AM–3 PM. Great before gorge day.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Curly%2527s%20Family%20Restaurant%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Curly's%20Family%20Restaurant%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "American diner",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Western omelet",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.curlysfamilyrestaurant.com/menu"
+        }
+      },
+      {
+        "Name": {
+          "value": "Tobey's Donut Shop",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / donuts",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Handmade donuts since 1952 + full breakfast. 2 blocks from state park.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Tobey%2527s%20Donut%20Shop%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Tobey's%20Donut%20Shop%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "Donuts, breakfast",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Donuts + omelet",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://www.tobeysdonutshop.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Blackberry Inn Kitchen",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / bakery",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Downtown bagels & breakfast sandwiches. Good pre-gorge coffee stop.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Blackberry%20Inn%20Kitchen%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Blackberry%20Inn%20Kitchen%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "Bakery, café",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "NY-style bagel",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Seneca Lodge Restaurant",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "12 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Rustic lodge by the gorge. Racing memorabilia bar; family-friendly dining.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Seneca%20Lodge%20Restaurant%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca%20Lodge%20Restaurant%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "American",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Prime rib",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Full bar",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://senecalodge.com/dining-menus/breakfast-menu/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Chef's Gathering",
+          "link": ""
+        },
+        "Type": {
+          "value": "Diner / breakfast",
+          "link": ""
+        },
+        "Town": {
+          "value": "Montour Falls",
+          "link": ""
+        },
+        "Drive": {
+          "value": "12 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Old-school diner. Breakfast all day; salad bar at lunch.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Chef%2527s%20Gathering%20Montour%20Falls%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Chef's%20Gathering%20Montour%20Falls%20NY"
+        },
+        "Cuisine": {
+          "value": "American diner",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Country fried steak",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Blue Ribbon Diner",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Montour Falls",
+          "link": ""
+        },
+        "Drive": {
+          "value": "12 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Down-home spot. Breakfast served all day; kids menu.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Blue%20Ribbon%20Diner%20Montour%20Falls%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Blue%20Ribbon%20Diner%20Montour%20Falls%20NY"
+        },
+        "Cuisine": {
+          "value": "American diner",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Build-your-own omelet",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Falls Restaurant & Catering",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Trumansburg",
+          "link": ""
+        },
+        "Drive": {
+          "value": "25 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "T-burg living room since 1988. Early breakfast Tue–Sun.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Falls%20Restaurant%20%26%20Catering%20Trumansburg%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Falls%20Restaurant%20%26%20Catering%20Trumansburg%20NY"
+        },
+        "Cuisine": {
+          "value": "American diner",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Classic breakfast plate",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Beer/Wine",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://fallsrestaurantandcatering.com/breakfast-menu/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Creekside Cafe",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Trumansburg",
+          "link": ""
+        },
+        "Drive": {
+          "value": "25 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Creative local café. Fri–Sat 9–2, Sun 9–1 — pair with Ithaca day.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Creekside%20Cafe%20Trumansburg%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Creekside%20Cafe%20Trumansburg%20NY"
+        },
+        "Cuisine": {
+          "value": "Café, local",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Breakfast burrito",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Limited",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "No",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Rooster Fish Pub",
+          "link": ""
+        },
+        "Type": {
+          "value": "Breakfast / lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Franklin St brewpub. Flatbreads, tacos, kid-friendly bar food.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Rooster%20Fish%20Pub%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Rooster%20Fish%20Pub%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "American, brewpub",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Fish tacos",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Brewery",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://roosterfishpub.com/lunch-dinner-1"
+        }
+      },
+      {
+        "Name": {
+          "value": "Kookalaroc's Bar & Grill",
+          "link": ""
+        },
+        "Type": {
+          "value": "Lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "3/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Racing-themed seafood spot. Better for lunch with the 5yo car fan.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Kookalaroc%2527s%20Bar%20%26%20Grill%20Watkins%20Glen%20Finger%20Lakes%20NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Kookalaroc's%20Bar%20%26%20Grill%20Watkins%20Glen%20NY"
+        },
+        "Cuisine": {
+          "value": "Seafood, American",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Philly & scallops",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Limited",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Full bar",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Varies",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10–20 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        },
+        "Menu": {
+          "value": "View menu",
+          "link": "https://kookalarocs.com/"
+        }
+      }
+    ]
+  },
+  "Shopping": {
+    "headers": [
+      "Name",
+      "Type",
+      "Town",
+      "Drive",
+      "Cost",
+      "Kids",
+      "Trip",
+      "Notes",
+      "Pin",
+      "Directions",
+      "Website"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Alphabet Soup · Ithaca",
+          "link": ""
+        },
+        "Type": {
+          "value": "Toy store",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Wednesday",
+          "link": ""
+        },
+        "Notes": {
+          "value": "LEGO, games, puzzles — best kid shop on the trip.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Alphabet+Soup+171+E+State+St+Ithaca+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Alphabet+Soup+Ithaca+NY"
+        },
+        "Website": {
+          "value": "Website",
+          "link": "https://alphabetsoupithaca.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Alphabet Soup · Corning",
+          "link": ""
+        },
+        "Type": {
+          "value": "Toy store",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Thursday / rainy day",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Same great toy store on Market St near glass museum.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Alphabet+Soup+60+E+Market+St+Corning+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Alphabet+Soup+Corning+NY"
+        },
+        "Website": {
+          "value": "Website",
+          "link": "https://alphabetsoupithaca.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Big Gully Candy",
+          "link": ""
+        },
+        "Type": {
+          "value": "Candy shop",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Tuesday downtown",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Bulk candy and chocolate on North Franklin St.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Big+Gully+Candy+307+N+Franklin+St+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Big+Gully+Candy+Watkins+Glen+NY"
+        },
+        "Website": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Specc's Chocolates & Gifts",
+          "link": ""
+        },
+        "Type": {
+          "value": "Fudge & gifts",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Tuesday Franklin St",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Fudge and truffles made on site.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Specc's+Chocolates+112+N+Franklin+St+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Specc's+Chocolates+Watkins+Glen+NY"
+        },
+        "Website": {
+          "value": "Website",
+          "link": "https://speccsfudge.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Guanocrazy",
+          "link": ""
+        },
+        "Type": {
+          "value": "Quirky gifts",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Tuesday downtown",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Funny gifts and local crafts on Franklin St.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Guanocrazy+112+N+Franklin+St+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Guanocrazy+Watkins+Glen+NY"
+        },
+        "Website": {
+          "value": "Website",
+          "link": "https://guanocrazy112.com/"
+        }
+      },
+      {
+        "Name": {
+          "value": "State Park Gift Shop",
+          "link": ""
+        },
+        "Type": {
+          "value": "Souvenirs",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Tuesday after gorge",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Toys and gorge souvenirs at park entrance.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+Gift+Shop+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
+        },
+        "Website": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "IMRRC Gift Shop",
+          "link": ""
+        },
+        "Type": {
+          "value": "Racing merch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Tuesday racing day",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Racing books and merch at free IMRRC museum.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=International+Motor+Racing+Research+Center+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=International+Motor+Racing+Research+Center+Watkins+Glen+NY"
+        },
+        "Website": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Corning Gaffer District",
+          "link": ""
+        },
+        "Type": {
+          "value": "Downtown stroll",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free stroll",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Thursday optional",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Walkable Market St shops after glass museum.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Market+Street+Corning+NY+Gaffer+District"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Market+Street+Corning+NY"
+        },
+        "Website": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Corning Museum Gift Shop",
+          "link": ""
+        },
+        "Type": {
+          "value": "Glass & souvenirs",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Thursday / rainy day",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Huge shop — glass ornaments and kid-friendly pieces.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Corning+Museum+of+Glass+Corning+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+        },
+        "Website": {
+          "value": "Website",
+          "link": "https://cmog.org/"
+        }
+      },
+      {
+        "Name": {
+          "value": "Ithaca Commons",
+          "link": ""
+        },
+        "Type": {
+          "value": "Downtown stroll",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free stroll",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Trip": {
+          "value": "Wednesday",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Pedestrian commons — browse on way to Alphabet Soup.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Ithaca+Commons+Ithaca+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Ithaca+Commons+Ithaca+NY"
+        },
+        "Website": {
+          "value": "",
+          "link": ""
         }
       }
     ]
