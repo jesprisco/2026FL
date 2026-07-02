@@ -54,33 +54,11 @@
       },
       {
         "Use this first": {
-          "value": "Firewood",
+          "value": "Pre-ordered",
           "link": ""
         },
         "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
-          "value": "Pre-order bundles (6–8 logs, $10 each) for delivery to your cottage before check-in.",
-          "link": ""
-        },
-        "Column 3": {
-          "value": "",
-          "link": ""
-        },
-        "Column 4": {
-          "value": "",
-          "link": ""
-        },
-        "Column 5": {
-          "value": "",
-          "link": ""
-        }
-      },
-      {
-        "Use this first": {
-          "value": "S'mores kit",
-          "link": ""
-        },
-        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
-          "value": "Pre-ordered — should be at the cottage. Monday lake-night treat with firewood.",
+          "value": "Firewood ($10/bundle) and s'mores kit at the cottage.",
           "link": ""
         },
         "Column 3": {
@@ -204,11 +182,11 @@
           "link": ""
         },
         "Plan": {
-          "value": "Reception check-in 3–5 PM → TOPS Friendly Markets → Seneca Harbor Station → ice cream if energy → s'mores @ cottage (kit pre-ordered + firewood)",
+          "value": "Check-in 3–5 PM → TOPS → Seneca Harbor → s'mores at cottage",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Keep it light. Call (607) 210-2655 if arriving outside reception hours. S'mores = easy Monday win if kids have gas after dinner.",
+          "value": "Keep it light. Call office if arriving outside reception hours.",
           "link": ""
         }
       },
@@ -218,15 +196,15 @@
           "link": ""
         },
         "Theme": {
-          "value": "Gorge + Zweigle's grill lunch",
+          "value": "Watkins Glen",
           "link": ""
         },
         "Plan": {
-          "value": "Watkins Glen State Park → Zweigle's Grill Day @ cottage → racing stops → Lakewood Vineyards → Clute Memorial Park",
+          "value": "State Park → cottage lunch (grill Zweigle's from TOPS) → racing → Lakewood → Clute Park",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Car nap after lunch or winery. 5yo can ride along on Drive The Glen — driver must be 18+.",
+          "value": "Car nap after lunch or winery. Drive The Glen: book 5 PM if grilling at noon.",
           "link": ""
         }
       },
@@ -331,52 +309,6 @@
       },
       {
         "Day": {
-          "value": "Mon Night",
-          "link": ""
-        },
-        "Type": {
-          "value": "Cottage fire + s'mores",
-          "link": ""
-        },
-        "Name": {
-          "value": "S'mores @ Cottage",
-          "link": ""
-        },
-        "Town": {
-          "value": "Hector",
-          "link": ""
-        },
-        "Drive": {
-          "value": "0 min",
-          "link": ""
-        },
-        "Cost": {
-          "value": "Pre-ordered",
-          "link": ""
-        },
-        "Kids": {
-          "value": "5/5",
-          "link": ""
-        },
-        "Weather": {
-          "value": "Dry best",
-          "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
-        },
-        "Notes": {
-          "value": "S'mores kit pre-ordered at cottage. Use firewood. Easy Monday lake night.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
           "value": "Tue AM",
           "link": ""
         },
@@ -418,52 +350,6 @@
         },
         "Notes": {
           "value": "Go early; carrier better than stroller on gorge stairs.",
-          "link": ""
-        }
-      },
-      {
-        "Day": {
-          "value": "Tue Lunch",
-          "link": ""
-        },
-        "Type": {
-          "value": "Cottage grill lunch",
-          "link": ""
-        },
-        "Name": {
-          "value": "Zweigle's Grill Day @ Cottage",
-          "link": ""
-        },
-        "Town": {
-          "value": "Hector (Single Island Shores)",
-          "link": ""
-        },
-        "Drive": {
-          "value": "0 min",
-          "link": ""
-        },
-        "Cost": {
-          "value": "$",
-          "link": ""
-        },
-        "Kids": {
-          "value": "5/5",
-          "link": ""
-        },
-        "Weather": {
-          "value": "Dry best",
-          "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
-        },
-        "Notes": {
-          "value": "Buy Zweigle's at TOPS Monday. Grill reds + whites at the cottage after the gorge. Mustard + meat sauce.",
           "link": ""
         }
       },
@@ -743,7 +629,7 @@
           "link": ""
         },
         "Notes": {
-          "value": "🏎️ Car kid pick — 3 pace-car laps on the real road course. Book ahead; arrive 30–45 min early at Gate 2. Driver 18+.",
+          "value": "3 escorted laps in your car. Book ahead; July 6–10 clear.",
           "link": ""
         },
         "Pin": {
@@ -1439,7 +1325,7 @@
           "link": ""
         },
         "Notes": {
-          "value": "❤️ Our pick — full grocery run after check-in. 504½ S Franklin St. (607) 535-4064. Zweigle's Red & Whites for Tuesday grill day.",
+          "value": "Main grocery run after Monday check-in. Mon list: Zweigle's Red & Whites (Tue lunch), buns, mustard, snacks.",
           "link": ""
         },
         "Pin": {
@@ -1507,88 +1393,6 @@
       "Menu"
     ],
     "rows": [
-      {
-        "Name": {
-          "value": "Zweigle's Grill Day @ Cottage",
-          "link": "https://zweigles.com/"
-        },
-        "Type": {
-          "value": "Cottage grill lunch · Tue",
-          "link": ""
-        },
-        "Town": {
-          "value": "Hector (Single Island Shores)",
-          "link": ""
-        },
-        "Drive": {
-          "value": "0 min",
-          "link": ""
-        },
-        "Price": {
-          "value": "$",
-          "link": ""
-        },
-        "Kids": {
-          "value": "5/5",
-          "link": ""
-        },
-        "Notes": {
-          "value": "🌭 Tuesday lunch — grill reds + whites on the cottage deck. Shop TOPS Monday.",
-          "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
-        },
-        "Cuisine": {
-          "value": "Zweigle's grill",
-          "link": ""
-        },
-        "Best Item": {
-          "value": "Red hots + white hots",
-          "link": ""
-        },
-        "Kids Menu": {
-          "value": "Yes",
-          "link": ""
-        },
-        "Alcohol": {
-          "value": "BYOB",
-          "link": ""
-        },
-        "Outdoor Seating": {
-          "value": "Cottage deck",
-          "link": ""
-        },
-        "High Chairs": {
-          "value": "Bring if needed",
-          "link": ""
-        },
-        "Changing Table": {
-          "value": "Cottage",
-          "link": ""
-        },
-        "Reservations": {
-          "value": "N/A",
-          "link": ""
-        },
-        "Typical Wait": {
-          "value": "Grill time ~15 min",
-          "link": ""
-        },
-        "Google Maps": {
-          "value": "Cottage pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
-        },
-        "Menu": {
-          "value": "Shop TOPS",
-          "link": "#groceries"
-        }
-      },
       {
         "Name": {
           "value": "Seneca Harbor Station",
