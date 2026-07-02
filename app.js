@@ -412,36 +412,3 @@ window.addEventListener('resize', onScroll, { passive: true });
 updateHeaderCollapse();
 setActiveTab();
 filter();
-
-const VIEW_KEY = 'fl2026-view';
-const viewEssentialsBtn = document.getElementById('view-essentials');
-const viewFullBtn = document.getElementById('view-full');
-const openFullPlanner = document.getElementById('open-full-planner');
-
-function setPlannerView(mode) {
-  const full = mode === 'full';
-  document.body.classList.toggle('view-full', full);
-  document.body.classList.toggle('view-essentials', !full);
-  localStorage.setItem(VIEW_KEY, mode);
-  viewEssentialsBtn?.classList.toggle('is-active', !full);
-  viewFullBtn?.classList.toggle('is-active', full);
-  viewEssentialsBtn?.setAttribute('aria-selected', String(!full));
-  viewFullBtn?.setAttribute('aria-selected', String(full));
-  refreshStickyOffset();
-  if (full) setActiveTab();
-}
-
-setPlannerView(localStorage.getItem(VIEW_KEY) === 'full' ? 'full' : 'essentials');
-
-viewEssentialsBtn?.addEventListener('click', () => {
-  setPlannerView('essentials');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-});
-viewFullBtn?.addEventListener('click', () => {
-  setPlannerView('full');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-});
-openFullPlanner?.addEventListener('click', () => {
-  setPlannerView('full');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-});

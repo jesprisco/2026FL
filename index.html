@@ -12,7 +12,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800;900&display=swap" rel="stylesheet" />
 </head>
-<body class="view-essentials">
+<body>
 <div class="top-sticky">
   <header class="planner-header">
     <div class="planner-brand">
@@ -55,77 +55,12 @@
         <a class="quick-btn quick-btn-main" href="https://www.google.com/maps/dir/?api=1&amp;destination=Single+Island+Shores%2C+Hector%2C+NY" target="_blank" rel="noopener">🚗 Directions</a>
         <a class="quick-btn quick-btn-soft" href="https://www.google.com/maps/search/?api=1&amp;query=Single+Island+Shores+Hector+Finger+Lakes+NY" target="_blank" rel="noopener">📍 Map</a>
       </div>
-
-      <div class="view-switch" role="tablist" aria-label="Planner view">
-        <button type="button" class="view-switch-btn is-active" id="view-essentials" role="tab" aria-selected="true">Dumb husband version</button>
-        <button type="button" class="view-switch-btn" id="view-full" role="tab" aria-selected="false">Full planner</button>
-      </div>
     </div>
   </div>
 
-  <nav class="tabs tabs-full" aria-label="Planner sections"><a href="#check-in">Check-in</a><a href="#groceries">Groceries</a><a href="#itinerary">Itinerary<span class="tab-badge hidden" id="itinerary-badge">0</span></a><a href="#quick-picks">Quick Picks</a><a href="#racing">Racing</a><a href="#parks">Parks</a><a href="#wineries">Wineries</a><a href="#food">Food</a><a href="#shopping">Shopping</a><a href="#rainy-day">Rainy Day</a><a href="#packing">Packing</a></nav>
+  <nav class="tabs" aria-label="Planner sections"><a href="#check-in">Check-in</a><a href="#groceries">Groceries</a><a href="#itinerary">Itinerary<span class="tab-badge hidden" id="itinerary-badge">0</span></a><a href="#quick-picks">Quick Picks</a><a href="#racing">Racing</a><a href="#parks">Parks</a><a href="#wineries">Wineries</a><a href="#food">Food</a><a href="#shopping">Shopping</a><a href="#rainy-day">Rainy Day</a><a href="#packing">Packing</a></nav>
 </div>
 <main>
-  <section id="essentials" class="essentials">
-    <p class="essentials-lead">Big buttons. No hunting.</p>
-
-    <article class="essential-card essential-card-highlight">
-      <p class="essential-kicker">Where</p>
-      <h3>Single Island Shores</h3>
-      <p class="essential-copy">LakeView Cottage · Hector, NY</p>
-      <div class="essential-actions">
-        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;destination=Single+Island+Shores%2C+Hector%2C+NY" target="_blank" rel="noopener">🚗 Directions to cottage</a>
-        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Single+Island+Shores+Hector+Finger+Lakes+NY" target="_blank" rel="noopener">📍 Map pin</a>
-      </div>
-    </article>
-
-    <article class="essential-card">
-      <p class="essential-kicker">Mon · Jul 6</p>
-      <h3>Arrive &amp; check in</h3>
-      <p class="essential-copy"><b>3:00–5:00 PM</b> at the office. Not sure you'll make it? Call ahead.</p>
-      <div class="essential-actions">
-        <a class="essential-btn" href="tel:+16072102655">📞 Call office</a>
-        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=TOPS+Friendly+Markets+Watkins+Glen+NY" target="_blank" rel="noopener">🛒 TOPS groceries after check-in</a>
-      </div>
-    </article>
-
-    <article class="essential-card">
-      <p class="essential-kicker">Tue · Jul 7</p>
-      <h3>Gorge &amp; Watkins Glen</h3>
-      <p class="essential-copy">State park in the <b>morning</b> (go early). Winery + playground after if we're up for it.</p>
-      <div class="essential-actions">
-        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Watkins+Glen+State+Park+Watkins+Glen+NY" target="_blank" rel="noopener">🚗 Watkins Glen State Park</a>
-      </div>
-    </article>
-
-    <article class="essential-card">
-      <p class="essential-kicker">Wed · Jul 8</p>
-      <h3>Ithaca day</h3>
-      <p class="essential-copy"><b>Sciencenter</b> (indoor, good for kids) · <b>Stewart Park</b> playground after.</p>
-      <div class="essential-actions">
-        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Sciencenter+Ithaca+NY" target="_blank" rel="noopener">🚗 Sciencenter</a>
-        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Stewart+Park+Ithaca+NY" target="_blank" rel="noopener">🚗 Stewart Park</a>
-      </div>
-    </article>
-
-    <article class="essential-card essential-card-highlight">
-      <p class="essential-kicker">Thu · Jul 9</p>
-      <h3>Checkout &amp; drive home</h3>
-      <p class="essential-copy"><b>Checkout 10:00 AM.</b> Load the car, then optional stop on the way to Saratoga (Corning Museum works).</p>
-      <div class="essential-actions">
-        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Corning+Museum+of+Glass+Corning+NY" target="_blank" rel="noopener">🚗 Corning Museum (optional)</a>
-      </div>
-    </article>
-
-    <article class="essential-card essential-card-compact">
-      <h3>Cottage already has</h3>
-      <p class="essential-copy">Linens · paper products · full kitchen · grill gas · s'mores kit &amp; firewood ordered</p>
-    </article>
-
-    <p class="essentials-foot">Want restaurants, packing, wineries? Switch to <button type="button" class="essentials-link" id="open-full-planner">Full planner</button>.</p>
-  </section>
-
-  <div class="full-planner">
   <div class="tools">
     <input id="search" type="search" inputmode="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Search breakfast, food, shopping…" aria-label="Search planner" />
     <button id="clear" type="button" aria-label="Clear search">Clear</button>
@@ -610,7 +545,6 @@
       </ul>
     </article>
   </div></section>
-  </div>
 </main>
 <footer>
   <p>Built from your mobile planner spreadsheet. Tap Website or Directions on each card.</p>
