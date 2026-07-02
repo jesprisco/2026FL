@@ -397,6 +397,8 @@ function updateHeaderCollapse() {
   const compact = topSticky.querySelector('.stay-compact-bar');
   expanded?.setAttribute('aria-hidden', String(headerCollapsed));
   compact?.setAttribute('aria-hidden', String(!headerCollapsed));
+  topSticky.querySelector('.planner-compact-title')?.setAttribute('aria-hidden', String(!headerCollapsed));
+  topSticky.querySelector('.planner-brand')?.setAttribute('aria-hidden', String(headerCollapsed));
   refreshStickyOffset();
 }
 
