@@ -1,0 +1,2164 @@
+{
+  "Start Here": {
+    "headers": [
+      "Use this first",
+      "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.",
+      "Column 3",
+      "Column 4",
+      "Column 5"
+    ],
+    "rows": [
+      {
+        "Use this first": {
+          "value": "Home base",
+          "link": ""
+        },
+        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Single Island Shores, Hector, NY",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Kids",
+          "link": ""
+        },
+        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "2-year-old and 5-year-old. Car naps assumed.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Best simple flow",
+          "link": ""
+        },
+        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "One main activity per day, lunch, car nap, one small afternoon stop.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Wine stop",
+          "link": ""
+        },
+        "Open the Today tab for the simplest plan. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Lakewood Vineyards is the safest family-friendly default.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  "Today": {
+    "headers": [
+      "Day",
+      "Best Plan",
+      "Backup if Rain",
+      "Tap"
+    ],
+    "rows": [
+      {
+        "Day": {
+          "value": "Mon",
+          "link": ""
+        },
+        "Best Plan": {
+          "value": "Check in + dinner at Seneca Harbor Station",
+          "link": ""
+        },
+        "Backup if Rain": {
+          "value": "Cabin night",
+          "link": ""
+        },
+        "Tap": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Tue",
+          "link": ""
+        },
+        "Best Plan": {
+          "value": "Watkins Glen State Park + Lakewood Vineyards",
+          "link": ""
+        },
+        "Backup if Rain": {
+          "value": "Corning Museum of Glass",
+          "link": ""
+        },
+        "Tap": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Wed",
+          "link": ""
+        },
+        "Best Plan": {
+          "value": "Sciencenter + Stewart Park + Purity Ice Cream",
+          "link": ""
+        },
+        "Backup if Rain": {
+          "value": "Stay indoors at Sciencenter / Museum of the Earth",
+          "link": ""
+        },
+        "Tap": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Thu",
+          "link": ""
+        },
+        "Best Plan": {
+          "value": "Corning Museum of Glass + Market Street",
+          "link": ""
+        },
+        "Backup if Rain": {
+          "value": "Same plan works in rain",
+          "link": ""
+        },
+        "Tap": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+        }
+      }
+    ]
+  },
+  "Daily Plan": {
+    "headers": [
+      "Day",
+      "Theme",
+      "Plan",
+      "Nap / Kid Note",
+      "Pin",
+      "Directions"
+    ],
+    "rows": [
+      {
+        "Day": {
+          "value": "Monday",
+          "link": ""
+        },
+        "Theme": {
+          "value": "Arrival Day",
+          "link": ""
+        },
+        "Plan": {
+          "value": "Check in \u2192 groceries \u2192 Seneca Harbor Station \u2192 ice cream if energy",
+          "link": ""
+        },
+        "Nap / Kid Note": {
+          "value": "Keep it light. No big paid activity.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Tuesday",
+          "link": ""
+        },
+        "Theme": {
+          "value": "Best outdoor day",
+          "link": ""
+        },
+        "Plan": {
+          "value": "Watkins Glen State Park \u2192 lunch \u2192 Lakewood Vineyards \u2192 Clute Memorial Park",
+          "link": ""
+        },
+        "Nap / Kid Note": {
+          "value": "Car nap after lunch or after winery.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Wednesday",
+          "link": ""
+        },
+        "Theme": {
+          "value": "Ithaca day",
+          "link": ""
+        },
+        "Plan": {
+          "value": "Sciencenter \u2192 lunch \u2192 Stewart Park \u2192 Purity Ice Cream",
+          "link": ""
+        },
+        "Nap / Kid Note": {
+          "value": "Use Sciencenter if rain or heat.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Sciencenter+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
+        }
+      },
+      {
+        "Day": {
+          "value": "Thursday",
+          "link": ""
+        },
+        "Theme": {
+          "value": "Corning day",
+          "link": ""
+        },
+        "Plan": {
+          "value": "Corning Museum of Glass \u2192 lunch/Market Street \u2192 return to lake",
+          "link": ""
+        },
+        "Nap / Kid Note": {
+          "value": "Best if weather turns rainy.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Corning+Museum+of+Glass+Corning+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+        }
+      }
+    ]
+  },
+  "Quick Picks": {
+    "headers": [
+      "Day",
+      "Type",
+      "Name",
+      "Town",
+      "Drive",
+      "Cost",
+      "Kids",
+      "Weather",
+      "Pin",
+      "Directions",
+      "Notes"
+    ],
+    "rows": [
+      {
+        "Day": {
+          "value": "Mon Arrival",
+          "link": ""
+        },
+        "Type": {
+          "value": "Dinner + easy lake night",
+          "link": ""
+        },
+        "Name": {
+          "value": "Seneca Harbor Station",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Rain OK",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Good first-night waterfront dinner; keep it simple.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Tue AM",
+          "link": ""
+        },
+        "Type": {
+          "value": "Waterfalls",
+          "link": ""
+        },
+        "Name": {
+          "value": "Watkins Glen State Park",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$10 parking",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Go early; carrier better than stroller on gorge stairs.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Tue PM",
+          "link": ""
+        },
+        "Type": {
+          "value": "One wine stop",
+          "link": ""
+        },
+        "Name": {
+          "value": "Lakewood Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$10-15 tasting",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Light rain OK",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Lakewood+Vineyards+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Lakewood+Vineyards+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Large lawn; easy kid snack stop while one adult tastes.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Tue Late",
+          "link": ""
+        },
+        "Type": {
+          "value": "Playground / beach",
+          "link": ""
+        },
+        "Name": {
+          "value": "Clute Memorial Park",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Clute+Memorial+Park+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Clute+Memorial+Park+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Easy kid reset after winery.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Wed AM",
+          "link": ""
+        },
+        "Type": {
+          "value": "Indoor kids museum",
+          "link": ""
+        },
+        "Name": {
+          "value": "Sciencenter",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Rain OK",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Sciencenter+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
+        },
+        "Notes": {
+          "value": "Best rainy/too-hot option for ages 2 and 5.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Wed PM",
+          "link": ""
+        },
+        "Type": {
+          "value": "Playground",
+          "link": ""
+        },
+        "Name": {
+          "value": "Stewart Park",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Stewart+Park+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Stewart+Park+Ithaca+NY"
+        },
+        "Notes": {
+          "value": "Big playground; pair with Purity Ice Cream.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Thu AM",
+          "link": ""
+        },
+        "Type": {
+          "value": "Indoor museum",
+          "link": ""
+        },
+        "Name": {
+          "value": "Corning Museum of Glass",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Rain OK",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Corning+Museum+of+Glass+Corning+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+        },
+        "Notes": {
+          "value": "Excellent Thursday/rain option; demos keep kids engaged.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Thu PM",
+          "link": ""
+        },
+        "Type": {
+          "value": "Walk + food",
+          "link": ""
+        },
+        "Name": {
+          "value": "Market Street",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Light rain OK",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Market+Street+Corning+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Market+Street+Corning+NY"
+        },
+        "Notes": {
+          "value": "Simple stroll after museum; food nearby.",
+          "link": ""
+        }
+      }
+    ]
+  },
+  "Parks": {
+    "headers": [
+      "Name",
+      "Type",
+      "Town",
+      "Drive",
+      "Cost",
+      "Kids",
+      "Weather",
+      "Visit",
+      "Pin",
+      "Directions",
+      "Notes"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Watkins Glen State Park",
+          "link": ""
+        },
+        "Type": {
+          "value": "Park / waterfall",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$10 parking",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Visit": {
+          "value": "2-3 hr",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Must-do. Many stairs.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Clute Memorial Park",
+          "link": ""
+        },
+        "Type": {
+          "value": "Playground / beach",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Visit": {
+          "value": "1-2 hr",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Clute+Memorial+Park+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Clute+Memorial+Park+Watkins+Glen+NY"
+        },
+        "Notes": {
+          "value": "Playground, lake, easy parking.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Stewart Park",
+          "link": ""
+        },
+        "Type": {
+          "value": "Playground / lake",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Visit": {
+          "value": "1-2 hr",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Stewart+Park+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Stewart+Park+Ithaca+NY"
+        },
+        "Notes": {
+          "value": "Large playground.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Taughannock Falls Overlook",
+          "link": ""
+        },
+        "Type": {
+          "value": "Waterfall overlook",
+          "link": ""
+        },
+        "Town": {
+          "value": "Trumansburg",
+          "link": ""
+        },
+        "Drive": {
+          "value": "30 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$10 parking",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Light rain OK",
+          "link": ""
+        },
+        "Visit": {
+          "value": "30-60 min",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Taughannock+Falls+Overlook+Trumansburg+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Taughannock+Falls+Overlook+Trumansburg+NY"
+        },
+        "Notes": {
+          "value": "Easy overlook, minimal walking.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Hector Falls",
+          "link": ""
+        },
+        "Type": {
+          "value": "Roadside waterfall",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "5 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Light rain OK",
+          "link": ""
+        },
+        "Visit": {
+          "value": "10 min",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Hector+Falls+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Hector+Falls+Hector+NY"
+        },
+        "Notes": {
+          "value": "Quick scenic stop.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Smith Memorial Park",
+          "link": ""
+        },
+        "Type": {
+          "value": "Local park",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "5 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Visit": {
+          "value": "30-60 min",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Smith+Memorial+Park+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Smith+Memorial+Park+Hector+NY"
+        },
+        "Notes": {
+          "value": "Good low-effort reset.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "Finger Lakes National Forest",
+          "link": ""
+        },
+        "Type": {
+          "value": "Easy hike",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector/Burdett",
+          "link": ""
+        },
+        "Drive": {
+          "value": "20 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Visit": {
+          "value": "1-2 hr",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Finger+Lakes+National+Forest+Hector%2FBurdett+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Finger+Lakes+National+Forest+Hector%2FBurdett+NY"
+        },
+        "Notes": {
+          "value": "Pick a short trail only.",
+          "link": ""
+        }
+      },
+      {
+        "Name": {
+          "value": "She-Qua-Ga Falls",
+          "link": ""
+        },
+        "Type": {
+          "value": "Waterfall",
+          "link": ""
+        },
+        "Town": {
+          "value": "Montour Falls",
+          "link": ""
+        },
+        "Drive": {
+          "value": "20 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Light rain OK",
+          "link": ""
+        },
+        "Visit": {
+          "value": "20-30 min",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=She-Qua-Ga+Falls+Montour+Falls+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=She-Qua-Ga+Falls+Montour+Falls+NY"
+        },
+        "Notes": {
+          "value": "Easy short stop.",
+          "link": ""
+        }
+      }
+    ]
+  },
+  "Wineries": {
+    "headers": [
+      "Name",
+      "Town",
+      "Drive",
+      "Tasting",
+      "Kids",
+      "Why",
+      "Pin",
+      "Directions"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Lakewood Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Tasting": {
+          "value": "$10-15",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Large lawn; best family pick.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Lakewood+Vineyards+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Lakewood+Vineyards+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Leidenfrost Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "2 min",
+          "link": ""
+        },
+        "Tasting": {
+          "value": "$10-15",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Very close; relaxed lawn.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Leidenfrost+Vineyards+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Leidenfrost+Vineyards+Hector+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Hazlitt 1852 Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "3 min",
+          "link": ""
+        },
+        "Tasting": {
+          "value": "$10-15",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Casual, spacious.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Hazlitt+1852+Vineyards+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Hazlitt+1852+Vineyards+Hector+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Standing Stone Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "8 min",
+          "link": ""
+        },
+        "Tasting": {
+          "value": "$15",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Relaxed outdoor seating.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Standing+Stone+Vineyards+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Standing+Stone+Vineyards+Hector+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Wagner Vineyards",
+          "link": ""
+        },
+        "Town": {
+          "value": "Lodi",
+          "link": ""
+        },
+        "Drive": {
+          "value": "20 min",
+          "link": ""
+        },
+        "Tasting": {
+          "value": "$10-15",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Winery + brewery + food.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Wagner+Vineyards+Lodi+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Wagner+Vineyards+Lodi+NY"
+        }
+      }
+    ]
+  },
+  "Food": {
+    "headers": [
+      "Name",
+      "Type",
+      "Town",
+      "Drive",
+      "Price",
+      "Kids",
+      "Notes",
+      "Pin",
+      "Directions",
+      "Cuisine",
+      "Best Item",
+      "Kids Menu",
+      "Alcohol",
+      "Outdoor Seating",
+      "High Chairs",
+      "Changing Table",
+      "Reservations",
+      "Typical Wait",
+      "Google Maps"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Seneca Harbor Station",
+          "link": ""
+        },
+        "Type": {
+          "value": "Lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Waterfront; good first night.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
+        },
+        "Cuisine": {
+          "value": "Seafood, American",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Fish fry",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Full Bar",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "Recommended",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "15\u201330 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station",
+          "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station"
+        }
+      },
+      {
+        "Name": {
+          "value": "Nickel's Pit BBQ",
+          "link": ""
+        },
+        "Type": {
+          "value": "Lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Easy kid food.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Nickel%27s+Pit+BBQ+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Nickel%27s+Pit+BBQ+Watkins+Glen+NY"
+        },
+        "Cuisine": {
+          "value": "BBQ",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Brisket",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Beer",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10\u201320 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Nickels+Pit+BBQ+Watkins+Glen",
+          "link": "https://www.google.com/maps/search/?api=1&query=Nickels+Pit+BBQ+Watkins+Glen"
+        }
+      },
+      {
+        "Name": {
+          "value": "Jerlando's Pizza",
+          "link": ""
+        },
+        "Type": {
+          "value": "Pizza",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Reliable kid option.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Jerlando%27s+Pizza+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Jerlando%27s+Pizza+Watkins+Glen+NY"
+        },
+        "Cuisine": {
+          "value": "Pizza, Italian",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Pizza",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Beer/Wine",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Some",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10\u201320 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Jerlandos+Pizza+Watkins+Glen",
+          "link": "https://www.google.com/maps/search/?api=1&query=Jerlandos+Pizza+Watkins+Glen"
+        }
+      },
+      {
+        "Name": {
+          "value": "Great Escape Ice Cream",
+          "link": ""
+        },
+        "Type": {
+          "value": "Ice cream",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Post-park treat.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Great+Escape+Ice+Cream+Watkins+Glen+NY"
+        },
+        "Cuisine": {
+          "value": "Ice cream",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Hard ice cream",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "N/A",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "None",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "N/A",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "5\u201310 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen",
+          "link": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen"
+        }
+      },
+      {
+        "Name": {
+          "value": "The Boar's Nest 414",
+          "link": ""
+        },
+        "Type": {
+          "value": "BBQ / casual",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "2 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Closest easy food.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=The+Boar%27s+Nest+414+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=The+Boar%27s+Nest+414+Hector+NY"
+        },
+        "Cuisine": {
+          "value": "American, pub",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Burgers",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Beer/Wine",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10\u201320 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=The+Boars+Nest+414+Hector+NY",
+          "link": "https://www.google.com/maps/search/?api=1&query=The+Boars+Nest+414+Hector+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Scale House Brewery",
+          "link": ""
+        },
+        "Type": {
+          "value": "Casual food",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "5 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Local casual stop.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Scale+House+Brewery+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Scale+House+Brewery+Hector+NY"
+        },
+        "Cuisine": {
+          "value": "Brewpub, American",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Pizza",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Brewery",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "10\u201320 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Scale+House+Brewery+Hector+NY",
+          "link": "https://www.google.com/maps/search/?api=1&query=Scale+House+Brewery+Hector+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Purity Ice Cream",
+          "link": ""
+        },
+        "Type": {
+          "value": "Ice cream / lunch",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Pair with Sciencenter.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Purity+Ice+Cream+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Purity+Ice+Cream+Ithaca+NY"
+        },
+        "Cuisine": {
+          "value": "Ice cream",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Ice cream flight",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "N/A",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "None",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Limited",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "N/A",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "5\u201315 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Purity+Ice+Cream+Ithaca",
+          "link": "https://www.google.com/maps/search/?api=1&query=Purity+Ice+Cream+Ithaca"
+        }
+      },
+      {
+        "Name": {
+          "value": "Ithaca Ale House",
+          "link": ""
+        },
+        "Type": {
+          "value": "Lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Good adult/kid compromise.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Ithaca+Ale+House+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Ithaca+Ale+House+Ithaca+NY"
+        },
+        "Cuisine": {
+          "value": "American gastropub",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Burger",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "Full Bar",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Yes",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Unknown",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "No",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "15\u201330 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "https://www.google.com/maps/search/?api=1&query=Ithaca+Ale+House",
+          "link": "https://www.google.com/maps/search/?api=1&query=Ithaca+Ale+House"
+        }
+      },
+      {
+        "Name": {
+          "value": "Burgers & Beer of Corning",
+          "link": ""
+        },
+        "Type": {
+          "value": "Lunch / dinner",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Easy after glass museum.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Burgers+%26+Beer+of+Corning+Corning+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Burgers+%26+Beer+of+Corning+Corning+NY"
+        },
+        "Cuisine": {
+          "value": "",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  "Rainy Day": {
+    "headers": [
+      "Name",
+      "Town",
+      "Drive",
+      "Cost",
+      "Kids",
+      "Why",
+      "Pin",
+      "Directions"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Sciencenter",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Best rainy day for both kids.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Sciencenter+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Corning Museum of Glass",
+          "link": ""
+        },
+        "Town": {
+          "value": "Corning",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Best full rainy-day trip.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Corning+Museum+of+Glass+Corning+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Corning+Museum+of+Glass+Corning+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Museum of the Earth",
+          "link": ""
+        },
+        "Town": {
+          "value": "Ithaca",
+          "link": ""
+        },
+        "Drive": {
+          "value": "35 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Good if kids like dinosaurs/fossils.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Museum+of+the+Earth+Ithaca+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Museum+of+the+Earth+Ithaca+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Great Escape Ice Cream",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Short treat stop.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Great+Escape+Ice+Cream+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Great+Escape+Ice+Cream+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Harborside Lanes",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$-$$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Bowling backup; check hours.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Harborside+Lanes+Watkins+Glen+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Harborside+Lanes+Watkins+Glen+NY"
+        }
+      }
+    ]
+  }
+}
