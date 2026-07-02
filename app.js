@@ -3,9 +3,9 @@ const clear = document.getElementById('clear');
 const sections = [...document.querySelectorAll('section[id]')];
 const tabLinks = [...document.querySelectorAll('.tabs a')];
 const topSticky = document.querySelector('.top-sticky');
-let stickyOffset = topSticky ? topSticky.offsetHeight + 4 : 132;
+let stickyOffset = topSticky ? topSticky.offsetHeight + 4 : 112;
 function refreshStickyOffset() {
-  stickyOffset = topSticky ? topSticky.offsetHeight + 4 : 132;
+  stickyOffset = topSticky ? topSticky.offsetHeight + 4 : 112;
 }
 window.addEventListener('resize', refreshStickyOffset);
 
