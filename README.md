@@ -1,6 +1,4 @@
-# Finger Lakes Family Planner
 
-Static website version of the trip planner.
 
 ## Host on GitHub Pages
 1. Create a GitHub repo.
