@@ -5,33 +5,118 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="theme-color" content="#1f4d3a" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<title>Finger Lakes Family Planner</title>
+<title>Finger Lakes · Jul 6–9, 2026</title>
 <meta name="description" content="Mobile-friendly Finger Lakes family trip planner with Google Maps pins and directions." />
 <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
+<body class="view-essentials">
+<div class="top-sticky">
+  <div class="stay-dates-bar" aria-label="Trip dates">
+    <div class="stay-dates-row">
+      <div class="stay-block">
+        <span class="stay-label">Check in</span>
+        <strong class="stay-date">Mon · Jul 6</strong>
+        <span class="stay-meta">2026 · 3–5 PM</span>
+      </div>
+      <span class="stay-arrow" aria-hidden="true">→</span>
+      <div class="stay-block">
+        <span class="stay-label">Check out</span>
+        <strong class="stay-date">Thu · Jul 9</strong>
+        <span class="stay-meta">2026 · 10 AM</span>
+      </div>
+    </div>
+    <p class="stay-tagline"><b>3 nights</b> · LakeView Cottage · Single Island Shores</p>
+    <div class="view-switch" role="tablist" aria-label="Planner view">
+      <button type="button" class="view-switch-btn is-active" id="view-essentials" role="tab" aria-selected="true">Dumb husband version</button>
+      <button type="button" class="view-switch-btn" id="view-full" role="tab" aria-selected="false">Full planner</button>
+    </div>
+  </div>
+  <nav class="tabs tabs-full" aria-label="Planner sections"><a href="#check-in">Check-in</a><a href="#groceries">Groceries</a><a href="#itinerary">Itinerary<span class="tab-badge hidden" id="itinerary-badge">0</span></a><a href="#quick-picks">Quick Picks</a><a href="#racing">Racing</a><a href="#parks">Parks</a><a href="#wineries">Wineries</a><a href="#food">Food</a><a href="#shopping">Shopping</a><a href="#rainy-day">Rainy Day</a><a href="#packing">Packing</a></nav>
+</div>
 <header class="hero">
   <div>
-    <p class="eyebrow">Single Island Shores • LakeView Deluxe Cottage • July 6–9, 2026 • Family of 4</p>
+    <p class="eyebrow">Family trip planner · Hector, NY</p>
     <h1>Finger Lakes Family Planner</h1>
-    <p class="sub">Kid-friendly stops, food, parks, wineries, rain backups, and one-tap Google Maps directions.</p>
+    <p class="sub">Stops, food, maps — everything else is below. <b>Dates are pinned at the top.</b></p>
     <div class="hero-actions">
       <a class="hero-btn" href="https://www.google.com/maps/search/?api=1&amp;query=Single+Island+Shores+Hector+Finger+Lakes+NY" target="_blank" rel="noopener">📍 Lodging pin</a>
       <a class="hero-btn secondary" href="https://www.google.com/maps/dir/?api=1&amp;destination=Single+Island+Shores%2C+Hector%2C+NY" target="_blank" rel="noopener">🚗 Directions to lodging</a>
     </div>
   </div>
 </header>
-<nav class="tabs"><a href="#check-in">Check-in</a><a href="#groceries">Groceries</a><a href="#itinerary">Itinerary<span class="tab-badge hidden" id="itinerary-badge">0</span></a><a href="#quick-picks">Quick Picks</a><a href="#racing">Racing</a><a href="#parks">Parks</a><a href="#wineries">Wineries</a><a href="#food">Food</a><a href="#shopping">Shopping</a><a href="#rainy-day">Rainy Day</a><a href="#packing">Packing</a></nav>
 <main>
+  <section id="essentials" class="essentials">
+    <p class="essentials-lead">Big buttons. No hunting.</p>
+
+    <article class="essential-card essential-card-highlight">
+      <p class="essential-kicker">Where</p>
+      <h3>Single Island Shores</h3>
+      <p class="essential-copy">LakeView Cottage · Hector, NY</p>
+      <div class="essential-actions">
+        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;destination=Single+Island+Shores%2C+Hector%2C+NY" target="_blank" rel="noopener">🚗 Directions to cottage</a>
+        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/search/?api=1&amp;query=Single+Island+Shores+Hector+Finger+Lakes+NY" target="_blank" rel="noopener">📍 Map pin</a>
+      </div>
+    </article>
+
+    <article class="essential-card">
+      <p class="essential-kicker">Mon · Jul 6</p>
+      <h3>Arrive &amp; check in</h3>
+      <p class="essential-copy"><b>3:00–5:00 PM</b> at the office. Not sure you'll make it? Call ahead.</p>
+      <div class="essential-actions">
+        <a class="essential-btn" href="tel:+16072102655">📞 Call office</a>
+        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=TOPS+Friendly+Markets+Watkins+Glen+NY" target="_blank" rel="noopener">🛒 TOPS groceries after check-in</a>
+      </div>
+    </article>
+
+    <article class="essential-card">
+      <p class="essential-kicker">Tue · Jul 7</p>
+      <h3>Gorge &amp; Watkins Glen</h3>
+      <p class="essential-copy">State park in the <b>morning</b> (go early). Winery + playground after if we're up for it.</p>
+      <div class="essential-actions">
+        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Watkins+Glen+State+Park+Watkins+Glen+NY" target="_blank" rel="noopener">🚗 Watkins Glen State Park</a>
+      </div>
+    </article>
+
+    <article class="essential-card">
+      <p class="essential-kicker">Wed · Jul 8</p>
+      <h3>Ithaca day</h3>
+      <p class="essential-copy"><b>Sciencenter</b> (indoor, good for kids) · <b>Stewart Park</b> playground after.</p>
+      <div class="essential-actions">
+        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Sciencenter+Ithaca+NY" target="_blank" rel="noopener">🚗 Sciencenter</a>
+        <a class="essential-btn essential-btn-secondary" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Stewart+Park+Ithaca+NY" target="_blank" rel="noopener">🚗 Stewart Park</a>
+      </div>
+    </article>
+
+    <article class="essential-card essential-card-highlight">
+      <p class="essential-kicker">Thu · Jul 9</p>
+      <h3>Checkout &amp; drive home</h3>
+      <p class="essential-copy"><b>Checkout 10:00 AM.</b> Load the car, then optional stop on the way to Saratoga (Corning Museum works).</p>
+      <div class="essential-actions">
+        <a class="essential-btn" href="https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=Corning+Museum+of+Glass+Corning+NY" target="_blank" rel="noopener">🚗 Corning Museum (optional)</a>
+      </div>
+    </article>
+
+    <article class="essential-card essential-card-compact">
+      <h3>Cottage already has</h3>
+      <p class="essential-copy">Linens · paper products · full kitchen · grill gas · s'mores kit &amp; firewood ordered</p>
+    </article>
+
+    <p class="essentials-foot">Want restaurants, packing, wineries? Switch to <button type="button" class="essentials-link" id="open-full-planner">Full planner</button>.</p>
+  </section>
+
+  <div class="full-planner">
   <div class="tools">
     <input id="search" type="search" inputmode="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Search breakfast, food, shopping…" aria-label="Search planner" />
     <button id="clear" type="button" aria-label="Clear search">Clear</button>
   </div>
   <section id="check-in"><h2>Check-in</h2><div class="cards"><article class="card" data-search="{&quot;room&quot;: {&quot;value&quot;: &quot;lakeview double-bedroom deluxe cottage&quot;, &quot;link&quot;: &quot;&quot;}, &quot;stay starts&quot;: {&quot;value&quot;: &quot;monday, july 6, 2026&quot;, &quot;link&quot;: &quot;&quot;}, &quot;checkout&quot;: {&quot;value&quot;: &quot;thursday, july 9, 2026 10:00 am&quot;, &quot;link&quot;: &quot;&quot;}, &quot;reception&quot;: {&quot;value&quot;: &quot;3:00-5:00 pm&quot;, &quot;link&quot;: &quot;&quot;}, &quot;office&quot;: {&quot;value&quot;: &quot;(607) 210-2655&quot;, &quot;link&quot;: &quot;&quot;}, &quot;firewood&quot;: {&quot;value&quot;: &quot;$10 per bundle pre-order&quot;, &quot;link&quot;: &quot;&quot;}, &quot;contactless&quot;: {&quot;value&quot;: &quot;call ahead&quot;, &quot;link&quot;: &quot;&quot;}, &quot;sleeps&quot;: {&quot;value&quot;: &quot;6 with sleeper sofa&quot;, &quot;link&quot;: &quot;&quot;}, &quot;playground&quot;: {&quot;value&quot;: &quot;50 yards picnic pavilion playground&quot;, &quot;link&quot;: &quot;&quot;}, &quot;kitchen&quot;: {&quot;value&quot;: &quot;full kitchen keurig grill gas tank linens paper products&quot;, &quot;link&quot;: &quot;&quot;}}">
       <h3>LakeView Double-bedroom Deluxe Cottage</h3>
-      <div class="chips"><span class="chip"><b>Arrive:</b> Mon, Jul 6, 2026</span><span class="chip"><b>Checkout:</b> Thu, Jul 9 · 10:00 AM</span><span class="chip"><b>Guests:</b> 2 adults + 2 kids (2 &amp; 5)</span><span class="chip"><b>Sleeps:</b> up to 6</span><span class="chip"><b>Reception:</b> 3:00–5:00 PM</span></div>
+      <div class="chips"><span class="chip"><b>Guests:</b> 2 adults + 2 kids (2 &amp; 5)</span><span class="chip"><b>Sleeps:</b> up to 6</span><span class="chip"><b>Reception:</b> 3:00–5:00 PM</span></div>
       <div class="details">
-        <p class="info-lead"><b>Single Island Shores</b> · Mon, Jul 6 through Thu, Jul 9, 2026</p>
+        <p class="info-lead"><b>Single Island Shores</b> · LakeView Double-bedroom Deluxe Cottage</p>
+        <details class="card-more">
+          <summary>More cottage info</summary>
+          <div class="card-more-body">
         <p><b>Location:</b> Middle of the property (~350 yds above the Lakeside cottages, ~50 yds from the picnic pavilion &amp; playground). Built 2019.</p>
         <p><b>Reception check-in:</b> 3:00–5:00 PM at the office.</p>
         <p><b>Arriving outside those hours?</b> Or want contactless check-in? Notify the office in advance.</p>
@@ -41,6 +126,8 @@
         <p><b>Pre-ordered at cottage:</b> Firewood ($10/bundle, 6–8 logs) · S'mores kit</p>
         <p><b>Kitchen:</b> Full kitchen — oven, dishwasher, full-size fridge, microwave, toaster, Keurig. Stocked with glassware, flatware, pots, pans, and utensils.</p>
         <p><b>Outdoors:</b> Private grill (gas tank provided). Linens and paper products supplied.</p>
+          </div>
+        </details>
       </div>
     </article></div></section>
   <section id="groceries"><h2>Groceries</h2><div class="cards"><article class="card" data-search="{&quot;name&quot;: {&quot;value&quot;: &quot;tops friendly markets&quot;, &quot;link&quot;: &quot;&quot;}, &quot;town&quot;: {&quot;value&quot;: &quot;watkins glen&quot;, &quot;link&quot;: &quot;&quot;}, &quot;drive&quot;: {&quot;value&quot;: &quot;15 min&quot;, &quot;link&quot;: &quot;&quot;}, &quot;hours&quot;: {&quot;value&quot;: &quot;6 am - 11 pm daily&quot;, &quot;link&quot;: &quot;&quot;}, &quot;notes&quot;: {&quot;value&quot;: &quot;our go-to. full grocery run after check-in.&quot;, &quot;link&quot;: &quot;&quot;}, &quot;pin&quot;: {&quot;value&quot;: &quot;open pin&quot;, &quot;link&quot;: &quot;https://www.google.com/maps/search/?api=1&amp;query=TOPS+Friendly+Markets+504+South+Franklin+Street+Watkins+Glen+NY&quot;}, &quot;directions&quot;: {&quot;value&quot;: &quot;directions&quot;, &quot;link&quot;: &quot;https://www.google.com/maps/dir/?api=1&amp;origin=Single+Island+Shores%2C+Hector%2C+NY&amp;destination=TOPS+Friendly+Markets+Watkins+Glen+NY&quot;}}">
@@ -502,6 +589,7 @@
       </ul>
     </article>
   </div></section>
+  </div>
 </main>
 <footer>
   <p>Built from your mobile planner spreadsheet. Tap Website or Directions on each card.</p>
