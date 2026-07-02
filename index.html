@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="theme-color" content="#1f4d3a" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
 <title>Finger Lakes Family Planner</title>
 <meta name="description" content="Mobile-friendly Finger Lakes family trip planner with Google Maps pins and directions." />
 <link rel="stylesheet" href="styles.css" />
@@ -18,8 +20,8 @@
 <nav class="tabs"><a href="#today">Today</a><a href="#daily-plan">Daily Plan</a><a href="#quick-picks">Quick Picks</a><a href="#parks">Parks</a><a href="#wineries">Wineries</a><a href="#food">Food</a><a href="#rainy-day">Rainy Day</a></nav>
 <main>
   <div class="tools">
-    <input id="search" type="search" placeholder="Search food, parks, wineries…" />
-    <button id="clear">Clear</button>
+    <input id="search" type="search" inputmode="search" enterkeyhint="search" autocomplete="off" autocorrect="off" spellcheck="false" placeholder="Search food, parks, wineries…" aria-label="Search planner" />
+    <button id="clear" type="button" aria-label="Clear search">Clear</button>
   </div>
   <section id="today"><h2>Today</h2><div class="cards"><article class="card" data-search="{&quot;day&quot;: {&quot;value&quot;: &quot;mon&quot;, &quot;link&quot;: &quot;&quot;}, &quot;best plan&quot;: {&quot;value&quot;: &quot;check in + dinner at seneca harbor station&quot;, &quot;link&quot;: &quot;&quot;}, &quot;backup if rain&quot;: {&quot;value&quot;: &quot;cabin night&quot;, &quot;link&quot;: &quot;&quot;}, &quot;tap&quot;: {&quot;value&quot;: &quot;directions&quot;, &quot;link&quot;: &quot;https://www.google.com/maps/dir/?api=1&amp;origin=single+island+shores%2c+hector%2c+ny&amp;destination=seneca+harbor+station+watkins+glen+ny&quot;}}">
       <h3>Mon</h3>
