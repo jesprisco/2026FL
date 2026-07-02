@@ -382,8 +382,32 @@ clear.addEventListener('click', () => {
   input.focus();
 });
 
-document.addEventListener('scroll', setActiveTab, { passive: true });
-window.addEventListener('resize', setActiveTab, { passive: true });
+window.addEventListener('resize', refreshStickyOffset);
+
+const HEADER_COLLAPSE_AT = 56;
+let headerCollapsed = false;
+
+function updateHeaderCollapse() {
+  if (!topSticky) return;
+  const shouldCollapse = window.scrollY > HEADER_COLLAPSE_AT;
+  if (shouldCollapse === headerCollapsed) return;
+  headerCollapsed = shouldCollapse;
+  topSticky.classList.toggle('is-collapsed', headerCollapsed);
+  const expanded = topSticky.querySelector('.stay-dates-expanded');
+  const compact = topSticky.querySelector('.stay-compact-bar');
+  expanded?.setAttribute('aria-hidden', String(headerCollapsed));
+  compact?.setAttribute('aria-hidden', String(!headerCollapsed));
+  refreshStickyOffset();
+}
+
+function onScroll() {
+  updateHeaderCollapse();
+  setActiveTab();
+}
+
+document.addEventListener('scroll', onScroll, { passive: true });
+window.addEventListener('resize', onScroll, { passive: true });
+updateHeaderCollapse();
 setActiveTab();
 filter();
 

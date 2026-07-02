@@ -23,8 +23,22 @@ h1{margin:0;font-size:clamp(24px,7vw,30px);line-height:1.05}
 .stay-dates-bar{
   padding:10px max(12px,env(safe-area-inset-right)) 10px max(12px,env(safe-area-inset-left));
   background:linear-gradient(180deg,#fff9e6 0%,#fff3cc 100%);
-  border-bottom:3px solid #e6a800;color:#1d2521
+  border-bottom:3px solid #e6a800;color:#1d2521;
+  transition:padding .2s ease
 }
+.stay-compact-bar{
+  display:none;align-items:center;justify-content:center;gap:6px;margin:0;
+  font-size:14px;line-height:1.2;text-align:center;white-space:nowrap
+}
+.stay-compact-bar strong{font-size:16px;font-weight:900}
+.stay-compact-bar span{color:#5c4a12;font-weight:700;font-size:13px}
+.stay-dates-expanded{
+  overflow:hidden;max-height:240px;opacity:1;
+  transition:max-height .25s ease,opacity .2s ease,margin .25s ease
+}
+.top-sticky.is-collapsed .stay-dates-bar{padding-top:6px;padding-bottom:6px;border-bottom-width:2px}
+.top-sticky.is-collapsed .stay-compact-bar{display:flex}
+.top-sticky.is-collapsed .stay-dates-expanded{max-height:0;opacity:0;margin:0;pointer-events:none}
 .stay-dates-row{
   display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);align-items:center;
   gap:6px 8px;max-width:360px;margin:0 auto
@@ -171,6 +185,8 @@ body.view-essentials footer{display:none}
 }
 @media(max-width:520px){
   .stay-tagline-extra{display:none}
+  .stay-compact-bar{flex-wrap:wrap;white-space:normal}
+  .stay-compact-bar span{width:100%}
   .essential-card{padding:14px}
   .essential-card h3{font-size:20px}
   .essentials-lead{font-size:16px;margin-bottom:12px}
@@ -201,4 +217,5 @@ body.view-essentials footer{display:none}
 @media(prefers-reduced-motion:reduce){
   html{scroll-behavior:auto}
   .tabs a:active,.btn:active,.tools button:active{transform:none}
+  .stay-dates-expanded,.stay-dates-bar{transition:none}
 }
