@@ -76,6 +76,28 @@
       },
       {
         "Use this first": {
+          "value": "S'mores kit",
+          "link": ""
+        },
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Pre-ordered — should be at the cottage. Monday lake-night treat with firewood.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
           "value": "Home base",
           "link": ""
         },
@@ -182,11 +204,11 @@
           "link": ""
         },
         "Plan": {
-          "value": "Reception check-in 3–5 PM → groceries → Seneca Harbor Station → ice cream if energy",
+          "value": "Reception check-in 3–5 PM → TOPS Friendly Markets → Seneca Harbor Station → ice cream if energy → s'mores @ cottage (kit pre-ordered + firewood)",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Keep it light. Call (607) 210-2655 if arriving outside reception hours or for contactless check-in.",
+          "value": "Keep it light. Call (607) 210-2655 if arriving outside reception hours. S'mores = easy Monday win if kids have gas after dinner.",
           "link": ""
         }
       },
@@ -196,15 +218,15 @@
           "link": ""
         },
         "Theme": {
-          "value": "Best outdoor day",
+          "value": "Gorge + Zweigle's grill lunch",
           "link": ""
         },
         "Plan": {
-          "value": "Watkins Glen State Park → lunch → Lakewood Vineyards → Clute Memorial Park",
+          "value": "Watkins Glen State Park → Zweigle's Grill Day @ cottage → racing stops → Lakewood Vineyards → Clute Memorial Park",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Car nap after lunch or after winery.",
+          "value": "Car nap after lunch or winery. 5yo can ride along on Drive The Glen — driver must be 18+.",
           "link": ""
         }
       },
@@ -309,6 +331,52 @@
       },
       {
         "Day": {
+          "value": "Mon Night",
+          "link": ""
+        },
+        "Type": {
+          "value": "Cottage fire + s'mores",
+          "link": ""
+        },
+        "Name": {
+          "value": "S'mores @ Cottage",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "0 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Pre-ordered",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
+        },
+        "Notes": {
+          "value": "S'mores kit pre-ordered at cottage. Use firewood. Easy Monday lake night.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
           "value": "Tue AM",
           "link": ""
         },
@@ -350,6 +418,52 @@
         },
         "Notes": {
           "value": "Go early; carrier better than stroller on gorge stairs.",
+          "link": ""
+        }
+      },
+      {
+        "Day": {
+          "value": "Tue Lunch",
+          "link": ""
+        },
+        "Type": {
+          "value": "Cottage grill lunch",
+          "link": ""
+        },
+        "Name": {
+          "value": "Zweigle's Grill Day @ Cottage",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector (Single Island Shores)",
+          "link": ""
+        },
+        "Drive": {
+          "value": "0 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Weather": {
+          "value": "Dry best",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
+        },
+        "Notes": {
+          "value": "Buy Zweigle's at TOPS Monday. Grill reds + whites at the cottage after the gorge. Mustard + meat sauce.",
           "link": ""
         }
       },
@@ -581,6 +695,148 @@
         "Notes": {
           "value": "Optional PM stop if timing works; head home to Saratoga Springs after.",
           "link": ""
+        }
+      }
+    ]
+  },
+  "Racing": {
+    "headers": [
+      "Name",
+      "Type",
+      "Town",
+      "Drive",
+      "Cost",
+      "Kids",
+      "When",
+      "Notes",
+      "Pin",
+      "Directions"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "Drive The Glen · Watkins Glen International",
+          "link": "https://www.theglen.com/drive-the-glen/"
+        },
+        "Type": {
+          "value": "Drive the track",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "~20 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "$40/car",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5 ride-along",
+          "link": ""
+        },
+        "When": {
+          "value": "12 PM & 5 PM daily (Apr–Oct); July 6–10 clear",
+          "link": ""
+        },
+        "Notes": {
+          "value": "🏎️ Car kid pick — 3 pace-car laps on the real road course. Book ahead; arrive 30–45 min early at Gate 2. Driver 18+.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+International+2790+County+Route+16+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+International+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "International Motor Racing Research Center",
+          "link": "https://www.racingarchives.org/visit-us/"
+        },
+        "Type": {
+          "value": "Museum / library",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "~15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "When": {
+          "value": "Mon–Fri 9 AM–5 PM",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Racing history, photos, model cars, short film. Pair with historic street circuit.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=International+Motor+Racing+Research+Center+610+South+Decatur+Street+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=International+Motor+Racing+Research+Center+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Historic Grand Prix Circuit",
+          "link": ""
+        },
+        "Type": {
+          "value": "Self-drive tour",
+          "link": ""
+        },
+        "Town": {
+          "value": "Watkins Glen village",
+          "link": ""
+        },
+        "Drive": {
+          "value": "~15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "When": {
+          "value": "Anytime",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Follow marked signs on public roads — the original 1948 street course through downtown.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+Historic+Grand+Prix+Circuit"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+Historic+Grand+Prix+Circuit+Watkins+Glen+NY"
         }
       }
     ]
@@ -1154,6 +1410,79 @@
       }
     ]
   },
+  "Groceries": {
+    "headers": [
+      "Name",
+      "Town",
+      "Drive",
+      "Hours",
+      "Notes",
+      "Pin",
+      "Directions"
+    ],
+    "rows": [
+      {
+        "Name": {
+          "value": "TOPS Friendly Markets",
+          "link": "https://www.topsmarkets.com/"
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "~15 min",
+          "link": ""
+        },
+        "Hours": {
+          "value": "6 AM–11 PM daily",
+          "link": ""
+        },
+        "Notes": {
+          "value": "❤️ Our pick — full grocery run after check-in. 504½ S Franklin St. (607) 535-4064. Zweigle's Red & Whites for Tuesday grill day.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=TOPS+Friendly+Markets+504+South+Franklin+Street+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=TOPS+Friendly+Markets+Watkins+Glen+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "Dandy Mini Mart",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector",
+          "link": ""
+        },
+        "Drive": {
+          "value": "~1 mi",
+          "link": ""
+        },
+        "Hours": {
+          "value": "Convenience",
+          "link": ""
+        },
+        "Notes": {
+          "value": "Milk, snacks, basics only — not a full grocery run.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Dandy+Mini+Mart+Hector+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Dandy+Mini+Mart+Hector+NY"
+        }
+      }
+    ]
+  },
   "Food": {
     "headers": [
       "Name",
@@ -1178,6 +1507,88 @@
       "Menu"
     ],
     "rows": [
+      {
+        "Name": {
+          "value": "Zweigle's Grill Day @ Cottage",
+          "link": "https://zweigles.com/"
+        },
+        "Type": {
+          "value": "Cottage grill lunch · Tue",
+          "link": ""
+        },
+        "Town": {
+          "value": "Hector (Single Island Shores)",
+          "link": ""
+        },
+        "Drive": {
+          "value": "0 min",
+          "link": ""
+        },
+        "Price": {
+          "value": "$",
+          "link": ""
+        },
+        "Kids": {
+          "value": "5/5",
+          "link": ""
+        },
+        "Notes": {
+          "value": "🌭 Tuesday lunch — grill reds + whites on the cottage deck. Shop TOPS Monday.",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&destination=Single+Island+Shores%2C+Hector%2C+NY"
+        },
+        "Cuisine": {
+          "value": "Zweigle's grill",
+          "link": ""
+        },
+        "Best Item": {
+          "value": "Red hots + white hots",
+          "link": ""
+        },
+        "Kids Menu": {
+          "value": "Yes",
+          "link": ""
+        },
+        "Alcohol": {
+          "value": "BYOB",
+          "link": ""
+        },
+        "Outdoor Seating": {
+          "value": "Cottage deck",
+          "link": ""
+        },
+        "High Chairs": {
+          "value": "Bring if needed",
+          "link": ""
+        },
+        "Changing Table": {
+          "value": "Cottage",
+          "link": ""
+        },
+        "Reservations": {
+          "value": "N/A",
+          "link": ""
+        },
+        "Typical Wait": {
+          "value": "Grill time ~15 min",
+          "link": ""
+        },
+        "Google Maps": {
+          "value": "Cottage pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
+        },
+        "Menu": {
+          "value": "Shop TOPS",
+          "link": "#groceries"
+        }
+      },
       {
         "Name": {
           "value": "Seneca Harbor Station",
@@ -1958,6 +2369,40 @@
         "Directions": {
           "value": "Directions",
           "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
+        }
+      },
+      {
+        "Name": {
+          "value": "International Motor Racing Research Center",
+          "link": "https://www.racingarchives.org/visit-us/"
+        },
+        "Town": {
+          "value": "Watkins Glen",
+          "link": ""
+        },
+        "Drive": {
+          "value": "15 min",
+          "link": ""
+        },
+        "Cost": {
+          "value": "Free",
+          "link": ""
+        },
+        "Kids": {
+          "value": "4/5",
+          "link": ""
+        },
+        "Why": {
+          "value": "Free indoor racing history — car-kid rainy backup (Mon–Fri).",
+          "link": ""
+        },
+        "Pin": {
+          "value": "Open Pin",
+          "link": "https://www.google.com/maps/search/?api=1&query=International+Motor+Racing+Research+Center+Watkins+Glen+NY"
+        },
+        "Directions": {
+          "value": "Directions",
+          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=International+Motor+Racing+Research+Center+Watkins+Glen+NY"
         }
       },
       {
