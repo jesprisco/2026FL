@@ -10,6 +10,72 @@
     "rows": [
       {
         "Use this first": {
+          "value": "Trip dates",
+          "link": ""
+        },
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Monday, July 6 through Thursday, July 10, 2026",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Check-in",
+          "link": ""
+        },
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Reception 3:00–5:00 PM. Call (607) 210-2655 in advance if arriving outside those hours or for contactless check-in (Mon–Fri, 9:00 AM–4:30 PM EST).",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
+          "value": "Firewood",
+          "link": ""
+        },
+        "Open the Daily Plan tab for the day-by-day schedule. Use Quick Picks for alternatives. Tap map links from your phone.": {
+          "value": "Pre-order bundles (6–8 logs, $10 each) for delivery to your cottage before check-in.",
+          "link": ""
+        },
+        "Column 3": {
+          "value": "",
+          "link": ""
+        },
+        "Column 4": {
+          "value": "",
+          "link": ""
+        },
+        "Column 5": {
+          "value": "",
+          "link": ""
+        }
+      },
+      {
+        "Use this first": {
           "value": "Home base",
           "link": ""
         },
@@ -103,9 +169,7 @@
       "Day",
       "Theme",
       "Plan",
-      "Nap / Kid Note",
-      "Pin",
-      "Directions"
+      "Nap / Kid Note"
     ],
     "rows": [
       {
@@ -118,20 +182,12 @@
           "link": ""
         },
         "Plan": {
-          "value": "Check in → groceries → Seneca Harbor Station → ice cream if energy",
+          "value": "Reception check-in 3–5 PM → groceries → Seneca Harbor Station → ice cream if energy",
           "link": ""
         },
         "Nap / Kid Note": {
-          "value": "Keep it light. No big paid activity.",
+          "value": "Keep it light. Call (607) 210-2655 if arriving outside reception hours or for contactless check-in.",
           "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Seneca+Harbor+Station+Watkins+Glen+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Seneca+Harbor+Station+Watkins+Glen+NY"
         }
       },
       {
@@ -150,14 +206,6 @@
         "Nap / Kid Note": {
           "value": "Car nap after lunch or after winery.",
           "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Watkins+Glen+State+Park+Watkins+Glen+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Watkins+Glen+State+Park+Watkins+Glen+NY"
         }
       },
       {
@@ -176,14 +224,6 @@
         "Nap / Kid Note": {
           "value": "Use Sciencenter if rain or heat.",
           "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Sciencenter+Ithaca+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Sciencenter+Ithaca+NY"
         }
       },
       {
@@ -202,14 +242,6 @@
         "Nap / Kid Note": {
           "value": "Keep morning light. If you do a PM stop, leave plenty of time to get home.",
           "link": ""
-        },
-        "Pin": {
-          "value": "Open Pin",
-          "link": "https://www.google.com/maps/search/?api=1&query=Single+Island+Shores+Hector+Finger+Lakes+NY"
-        },
-        "Directions": {
-          "value": "Directions",
-          "link": "https://www.google.com/maps/dir/?api=1&origin=Single+Island+Shores%2C+Hector%2C+NY&destination=Saratoga+Springs%2C+NY"
         }
       }
     ]
